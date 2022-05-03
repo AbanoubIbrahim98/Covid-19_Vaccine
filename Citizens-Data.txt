@@ -1,0 +1,41 @@
+Data on all citizens who've already registered <<
+
+Civil Id = 123456, Name = 'HALEMA'', site= Amsterdam', number = 12262421899', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+}
+Civil Id = 123457, Name = 'MOUNERA'', site= Bangkok', number = +447508629557', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+}
+Civil Id = 123458, Name = 'LOUAI'', site= Beijing', number = +33629474120', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+identity = 2, Manufacturer = 'Frankfurt', TakenAt=2/1/2022, TakenIn='PRINSE SULTAN  ..', Health Professional = {Civil Id = 123469, Name = 'MOHAMMEDE'', Months Of Practical Experience = 3}
+identity = 3, Manufacturer = 'The Hague', TakenAt=1/1/2022, TakenIn='KING SAUD ..', Health Professional = {Civil Id = 123470, Name = 'FARES '', Months Of Practical Experience = 1}
+}
+Civil Id = 123459, Name = 'AMIRA'', site= Berlin', number = +447868206847', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+identity = 2, Manufacturer = 'Frankfurt', TakenAt=2/1/2022, TakenIn='PRINSE SULTAN  ..', Health Professional = {Civil Id = 123469, Name = 'MOHAMMEDE'', Months Of Practical Experience = 3}
+identity = 3, Manufacturer = 'The Hague', TakenAt=1/1/2022, TakenIn='KING SAUD ..', Health Professional = {Civil Id = 123470, Name = 'FARES '', Months Of Practical Experience = 1}
+}
+Civil Id = 123460, Name = 'MUNA'', site= Brussels', number = +77789493419', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+identity = 2, Manufacturer = 'Frankfurt', TakenAt=2/1/2022, TakenIn='PRINSE SULTAN  ..', Health Professional = {Civil Id = 123469, Name = 'MOHAMMEDE'', Months Of Practical Experience = 3}
+}
+Civil Id = 123461, Name = 'GHINA'', site= Cairo', number = +66802204827', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+}
+Civil Id = 123462, Name = 'SALLY'', site= Chicago', number = +420605993434', Doses Data = {
+identity = 1, Manufacturer = 'Bratislava', TakenAt=3/13/2022, TakenIn='KING FAISAL  ..', Health Professional = {Civil Id = 123468, Name = 'FATHEA'', Months Of Practical Experience = 2}
+identity = 2, Manufacturer = 'Frankfurt', TakenAt=2/1/2022, TakenIn='PRINSE SULTAN  ..', Health Professional = {Civil Id = 123469, Name = 'MOHAMMEDE'', Months Of Practical Experience = 3}
+}
+Civil Id = 123463, Name = 'MANAR'', site= Dublin', number = +31613355460', Doses Data = {
+}
+Civil Id = 123464, Name = 'SOSO'', site= Geneva', number = +4366565514515', Doses Data = {
+}
+Civil Id = 123465, Name = 'WAFAA'', site= Hanoi', number = +380979805709', Doses Data = {
+}
+Civil Id = 123466, Name = 'SAHAR'', site= Istanbul', number = +27765878260', Doses Data = {
+}
+Civil Id = 123467, Name = 'AYA'', site= London', number = +2787240508610186', Doses Data = {
+}
+
+>>
